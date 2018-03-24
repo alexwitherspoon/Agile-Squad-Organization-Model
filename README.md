@@ -1,11 +1,14 @@
 **Agile Squad Organizational Model**
 
-**TL:DR** - An example set of guiding priniciples for an agile squad organizational model
+**TL:DR** - An example set of guiding principles for an agile squad organizational model
 Source Document: https://github.com/alexwitherspoon/Agile-Squad-Organization-Model
 
-**Why does this exsit?**
+![](https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ&s=c78316978be8f3cd0b6f12e7285248cd)
+<small>Photo by [Marvin Meyer](https://unsplash.com/@marvelous?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit) / [Unsplash](https://unsplash.com/?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit)</small>
 
-There are amazing amounts of writings about [Agile](https://en.wikipedia.org/wiki/Agile_software_development), and the [manifesto](http://agilemanifesto.org/). While this is not the only, or even the right interpretation, or even the only interpretation I hold. I thought it would be at least helpful to me, to write some thoughts, and observances down in principles and outcomes. I'll revisit this over time to continue to add additional thoughts, so consider it an incomplete WIP. If you'd like to contribute, PRs/dialogue is welcome over at the [github repository](https://github.com/alexwitherspoon/Agile-Squad-Organization-Model) for this document. The latest accepted version will be updated regularly on my website: https://log.alexwitherspoon.com/agile-squad-organization-models
+**Why does this exist?**
+
+Organizing people so they can achieve more than the sum of their parts is really hard. I've spent a good portion of my life working on this problem, so here are some thoughts on the matter. There are amazing amounts of writings about [Agile](https://en.wikipedia.org/wiki/Agile_software_development), and the [manifesto](http://agilemanifesto.org/). While this is not the only, or even the right interpretation, or even the only interpretation I hold. I thought it would be at least helpful to me, to write some thoughts, and observances down in principles and outcomes. I'll revisit this over time to continue to add additional thoughts, so consider it an incomplete WIP. If you'd like to contribute, PRs/dialogue is welcome over at the [github repository](https://github.com/alexwitherspoon/Agile-Squad-Organization-Model) for this document. The latest accepted version will be updated regularly on my website: https://log.alexwitherspoon.com/agile-squad-organization-models
 
 **Problem Statement:**
 
