@@ -5,7 +5,7 @@ Source Document: https://github.com/alexwitherspoon/Agile-Squad-Organization-Mod
 
 **Why does this exsit?**
 
-There are amazing amounts of writings about [Agile](https://en.wikipedia.org/wiki/Agile_software_development), and the [manifesto](http://agilemanifesto.org/). While this is not the only, or even the right interpretation, or even the only interpretation I hold. I thought it would be at least helpful to me, to write some thoughts, and observances down in principles and outcomes. I'll revisit this over time to continue to add additional thoughts, so consider it an incomplete WIP. If you'd like to contribute, PRs/dialogue is welcome over at the github repository for this document. --> https://github.com/alexwitherspoon/Agile-Squad-Organization-Model
+There are amazing amounts of writings about [Agile](https://en.wikipedia.org/wiki/Agile_software_development), and the [manifesto](http://agilemanifesto.org/). While this is not the only, or even the right interpretation, or even the only interpretation I hold. I thought it would be at least helpful to me, to write some thoughts, and observances down in principles and outcomes. I'll revisit this over time to continue to add additional thoughts, so consider it an incomplete WIP. If you'd like to contribute, PRs/dialogue is welcome over at the [github repository](https://github.com/alexwitherspoon/Agile-Squad-Organization-Model) for this document.
 
 **Problem Statement:**
 
