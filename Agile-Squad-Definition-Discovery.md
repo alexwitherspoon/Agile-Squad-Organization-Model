@@ -4,7 +4,7 @@
 <small>Photo by [rawpixel.com](https://unsplash.com/@rawpixel?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit) / [Unsplash](https://unsplash.com/?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit)</small>
 
 **TL:DR** - An example template for defining an agile Squad
-Source Document: https://github.com/alexwitherspoon/Agile-Squad-Organization-Model/blob/master/Agile-Squad-Definition-Discovery
+Source Document: https://github.com/alexwitherspoon/Agile-Squad-Organization-Model/blob/master/Agile-Squad-Definition-Discovery.md
 
 **Why Defining the Squad Matters**
 
@@ -15,7 +15,7 @@ I'll revisit this over time to continue to add additional thoughts, so consider 
 **How do we Charter an Agile Squad or Team!?**
 I'll consider that out of the scope of this document, and in the future, I'll write some ideas around how to successfully charter a team, but here is a great article to start the conversation: https://medium.com/agile-outside-the-box/inception-getting-to-rapid-alignment-on-team-vision-and-goals-47cc60b0cb9
 
-**How to use the Template, and How to drive Alignment**
+**How to use the Template, and How to Drive Alignment**
 
 There is certainly many ways to approach this, but I've arrived at this basic starting point. Each Squad should work to author, publish, own, maintain, and seek approval from the business for a living definition of the Squad as outline below. Being a living document, this should be revisited regularly, at least quarterly. These definitions should be published in a place that is easily seen by the entire company, and should be used to on board new employees, as well as enable a growing organization to easily learn and discover what work is being worked on, and the Squad that is accountable for the cross functional execution for a given project or asset.
 
