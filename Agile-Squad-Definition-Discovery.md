@@ -13,6 +13,7 @@ For an Agile Squad to best function, they need to be able to define what they ar
 I'll revisit this over time to continue to add additional thoughts, so consider it an incomplete WIP. If you'd like to contribute, PRs/dialogue is welcome over at the github repository for this document. The latest accepted version will be updated regularly on my website: https://log.alexwitherspoon.com/agile-squad-definition-discovery
 
 **How do we Charter an Agile Squad or Team!?**
+
 I'll consider that out of the scope of this document, and in the future, I'll write some ideas around how to successfully charter a team, but here is a great article to start the conversation: https://medium.com/agile-outside-the-box/inception-getting-to-rapid-alignment-on-team-vision-and-goals-47cc60b0cb9
 
 **How to use the Template, and How to Drive Alignment**
