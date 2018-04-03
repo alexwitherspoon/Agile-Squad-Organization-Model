@@ -1,6 +1,6 @@
 **Agile Squad Definition & Discovery**
 
-**TL:DR** - An example template for defining an agile Squad
+**TL:DR** - An example template for defining an Agile Squad
 Source Document: https://github.com/alexwitherspoon/Agile-Squad-Organization-Model/blob/master/Agile-Squad-Definition-Discovery.md
 
 ![](https://images.unsplash.com/photo-1519636125090-67a506cc7c74?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ&s=457d4670adba65cda3c031ded54d7aa6)
