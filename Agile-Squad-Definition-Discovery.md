@@ -18,7 +18,7 @@ I'll consider that out of the scope of this document, and in the future, I'll wr
 
 **How to use the Template, and How to Drive Alignment**
 
-There are certainly many ways to approach this, but I've arrived at this basic starting point. Each Squad should work to author, publish, own, maintain, and seek approval from the business for a living definition of the Squad as outline below. Being a living document, this should be revisited regularly, at least quarterly. These definitions should be published in a place that is easily seen by the entire company, and should be used to onboard new employees, as well as enable a growing organization to easily learn and discover what is being worked on, and the Squad that is accountable for the cross functional execution for a given project or asset.
+There are certainly many ways to approach this, but I've arrived at this basic starting point. Each Squad should work to author, publish, own, maintain, and seek approval from the business for a living definition of the Squad as outlined below. Being a living document, this should be revisited regularly, at least quarterly. These definitions should be published in a place that is easily seen by the entire company, and should be used to onboard new employees, as well as enable a growing organization to easily learn and discover what is being worked on, and the Squad that is accountable for the cross functional execution for a given project or asset.
 
 ## Squad Definition Template
 
