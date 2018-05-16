@@ -8,7 +8,7 @@ Source Document: https://github.com/alexwitherspoon/Agile-Squad-Organization-Mod
 
 **Why Defining the Squad Matters**
 
-For an Agile Squad to best function, they need to be able to define what they are authoritative for, the dependencies of that Squad, and describe the goals of that Squad. This helps Squads define areas of autonomy, and declare clear dependencies between Squads. 
+For an Agile Squad to best function, they need to be able to define what they control, what they depend on, and what their goals are. This helps Squads define areas of autonomy, and declare clear dependencies between Squads.
 
 I'll revisit this over time to continue to add additional thoughts, so consider it an incomplete WIP. If you'd like to contribute, PRs/dialogue is welcome over at the github repository for this document. The latest accepted version will be updated regularly on my website: https://log.alexwitherspoon.com/agile-squad-definition-discovery
 
@@ -18,7 +18,7 @@ I'll consider that out of the scope of this document, and in the future, I'll wr
 
 **How to use the Template, and How to Drive Alignment**
 
-There is certainly many ways to approach this, but I've arrived at this basic starting point. Each Squad should work to author, publish, own, maintain, and seek approval from the business for a living definition of the Squad as outline below. Being a living document, this should be revisited regularly, at least quarterly. These definitions should be published in a place that is easily seen by the entire company, and should be used to on board new employees, as well as enable a growing organization to easily learn and discover what work is being worked on, and the Squad that is accountable for the cross functional execution for a given project or asset.
+There are certainly many ways to approach this, but I've arrived at this basic starting point. Each Squad should work to author, publish, own, maintain, and seek approval from the business for a living definition of the Squad as outline below. Being a living document, this should be revisited regularly, at least quarterly. These definitions should be published in a place that is easily seen by the entire company, and should be used to onboard new employees, as well as enable a growing organization to easily learn and discover what is being worked on, and the Squad that is accountable for the cross functional execution for a given project or asset.
 
 ## Squad Definition Template
 
