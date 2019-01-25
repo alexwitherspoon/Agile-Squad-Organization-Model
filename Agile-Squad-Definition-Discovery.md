@@ -10,7 +10,7 @@ Source Document: https://github.com/alexwitherspoon/Agile-Squad-Organization-Mod
 
 For an Agile Squad to best function, they need to be able to define what they control, what they depend on, and what their goals are. This helps Squads define areas of autonomy, and declare clear dependencies between Squads.
 
-I'll revisit this over time to continue to add additional thoughts, so consider it an incomplete WIP. If you'd like to contribute, PRs/dialogue is welcome over at the github repository for this document. The latest accepted version will be updated regularly on my website: https://log.alexwitherspoon.com/agile-squad-definition-discovery
+I'll revisit this over time to continue to add additional thoughts, so consider it an incomplete WIP. If you'd like to contribute, PRs/dialogue is welcome over at the github repository for this document. The latest accepted version will be updated regularly on my website: https://alexwitherspoon.com/publications/agile-squad-organization-models/
 
 **How do we Charter an Agile Squad or Team!?**
 
