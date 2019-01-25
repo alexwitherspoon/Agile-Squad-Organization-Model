@@ -87,9 +87,9 @@ To further the goals of creating a repeatable, robust and scalable global busine
 
 Below is a minimal example Organizational Diagram showing Squad Membership and organization design likely to be found in a given office.
 
-<img src="https://log.alexwitherspoon.com/content/images/2018/03/diagram1-agile-squad-organization-models.png" hspace="30" align="center" width="100%">
+<img src="https://d33wubrfki0l68.cloudfront.net/04595948d140a56290d8750e7dc0134ee05cf680/7ed0b/publications/agile-squad-organization-models/diagram1-agile-squad-organization-models_huf330c83dda377bf921ee6b4176ae7751_43734_1400x0_resize_lanczos_2.png" hspace="30" align="center" width="100%">
 
 
 The following diagram expands to show a more complex picture that describes Functional Teams and Squads together.
 
-<img src="https://log.alexwitherspoon.com/content/images/2018/03/diagram2-agile-squad-organization-models.jpg" hspace="30" align="center" width="100%">
+<img src="https://d33wubrfki0l68.cloudfront.net/86ce02ebc7ccd3fb2e9223e4fca4ea792dcf8e34/10ef2/publications/agile-squad-organization-models/diagram2-agile-squad-organization-models_hu064719642517c0de8b7e0d5c695ad3f3_91198_1400x0_resize_q75_lanczos.jpg" hspace="30" align="center" width="100%">
